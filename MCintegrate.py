@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 10 17:22:07 2023
-
-@author: James Curtis Buckler
-"""
-
+# -*- coding: utf-8 -*
 
 def MCint(f, a, b, n):
     """
